@@ -15,3 +15,4 @@ datetime
 catboost
 plotly
 statsmodels
+ipykernel
