@@ -1,10 +1,12 @@
-# **Práctica uno.** Aprendizaje de Máquinas
+# **Trabajo final.** Aprendizaje de Máquinas
 
-***Simón Cuartas Rendón***
+- **Sara Palacios Duque**
+- **Manuela Granda Muñoz**
+- **Sebastián Restrepo Betancur**
+- **Simón Cuartas Rendón**
 
-Desarrollo del **entregable número uno** del curso de **aprendizaje de máquinas**, relacionado con los temas de **regresión** y **clasificación**.
 
-A continuación, se explica cómo se pueden configurar el entorno virtual con el que se pueden ejecutar los *notebooks* de Python 
+En este repositorio se presenta el desarrollo del *trabajo final* del curso de ***Aprendizaje de Máquinas***. Este trabajo consiste en el ajuste de un modelo de clasificación que permita detectar transacciones fraudulentas. Para ello, se partieron de datos disponibles en [*Kaggle*](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) y se entrenaron diferentes modelos, para los cuales se calcularon sus métricas y realizaron comparaciones para determinar cuál fue el mejor de todos.
 
 ## Configuración en MacOS y Linux
 
