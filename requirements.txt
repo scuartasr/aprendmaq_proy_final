@@ -24,3 +24,4 @@ IPython
 tensorflow
 lightgbm
 xgboost
+statsmodels
